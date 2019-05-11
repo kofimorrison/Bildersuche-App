@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bildersuche-App/static/css/main.c00f04db.chunk.css",
+    "main.js": "/Bildersuche-App/static/js/main.4ec956b9.chunk.js",
+    "main.js.map": "/Bildersuche-App/static/js/main.4ec956b9.chunk.js.map",
+    "runtime~main.js": "/Bildersuche-App/static/js/runtime~main.29d742ce.js",
+    "runtime~main.js.map": "/Bildersuche-App/static/js/runtime~main.29d742ce.js.map",
+    "static/js/2.824d5390.chunk.js": "/Bildersuche-App/static/js/2.824d5390.chunk.js",
+    "static/js/2.824d5390.chunk.js.map": "/Bildersuche-App/static/js/2.824d5390.chunk.js.map",
+    "index.html": "/Bildersuche-App/index.html",
+    "precache-manifest.5fb68eb8004f784beaf89356e4afca20.js": "/Bildersuche-App/precache-manifest.5fb68eb8004f784beaf89356e4afca20.js",
+    "service-worker.js": "/Bildersuche-App/service-worker.js",
+    "static/css/main.c00f04db.chunk.css.map": "/Bildersuche-App/static/css/main.c00f04db.chunk.css.map"
+  }
+}
